@@ -1,2 +1,2 @@
 # algo
-algorithm 
+common algorithm 
